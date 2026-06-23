@@ -1,2 +1,2 @@
-# Ecocast_Widget_Ex_Git
-Android Widget Example(Ecocast Ver)
+# Ecoplay_Android_Java_Ecocast_Widget_Test
+에코플레이-사내프로젝트 Ecocast Widget Test, Android-Java
